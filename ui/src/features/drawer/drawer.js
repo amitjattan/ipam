@@ -744,7 +744,7 @@ export default function NavDrawer() {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" noWrap component="div" sx={{ display: { xs: "none", sm: "block" } }}>
-              Azure IPAM
+              Azure VNet Visualizer
             </Typography>
             <Search>
               <Autocomplete filterOptions={filterOptions}

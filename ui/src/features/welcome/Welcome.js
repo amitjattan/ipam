@@ -13,7 +13,7 @@ const Welcome = () => {
       <Box sx={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: 'calc(100vh - 137px)' }}>
         <img src={ipamLogo} width="35%" height="auto" alt="Welcome to Azure IPAM!"/>
         <Typography variant="h3" gutterBottom component="div">
-          Welcome to Azure IPAM!
+          Welcome to Azure CCOE VNet Visualizer!
         </Typography>
       </Box>
     </React.Fragment>
